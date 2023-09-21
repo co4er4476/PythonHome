@@ -1,4 +1,4 @@
-#salary_output
+#이대선--salary_output
 
 def output(employee) :
     print("==============================================================")

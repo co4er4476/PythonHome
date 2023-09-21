@@ -1,4 +1,4 @@
-#salary_input
+#이대선--salary_input 
 
 def myinput(employee):
     num = int(input("사원번호 :"))
