@@ -30,6 +30,7 @@ Lib/
 pyvenv.cfg
 Scripts/
 __pycache__/
+.vscode
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
