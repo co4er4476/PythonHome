@@ -31,6 +31,7 @@ pyvenv.cfg
 Scripts/
 __pycache__/
 .vscode
+dynamodbinfo.py
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
